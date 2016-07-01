@@ -4,12 +4,9 @@ Desktop Predix Front-end Starter-App
 
 Now with more Electron!
 
-## Installation
-
-npm install 
-
 ## Usage
 
+npm install 
 npm start 
 
 ## Contributing
