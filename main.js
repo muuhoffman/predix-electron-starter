@@ -14,6 +14,7 @@ function createWindow () {
 
   // and load the index.html of the app.
   mainWindow.loadURL(`file://${__dirname}/index.html`)
+  mainWindow.loadURL(`https://rmd-ref-app.run.aws-usw02-pr.ice.predix.io/`)
 
   // Open the DevTools.
   mainWindow.webContents.openDevTools()
